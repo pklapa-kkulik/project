@@ -1,0 +1,20 @@
+﻿PHPUnit 4.1.3 by Sebastian Bergmann.
+
+FF.
+
+Time: 65 ms, Memory: 3.75Mb
+
+There were 2 failures:
+
+1) TestSprzedawca::testArgument
+Failed asserting that class "Sprzedawca" has attribute "imie".
+
+C:\Program Files\xampp\htdocs\unitTest\sprzedawcyTest.php:5
+
+2) TestSprzedawca::testNullArgument
+Failed asserting that 'admin' is null.
+
+C:\Program Files\xampp\htdocs\unitTest\sprzedawcyTest.php:11
+
+FAILURES!
+Tests: 3, Assertions: 3, Failures: 2.

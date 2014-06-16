@@ -1,0 +1,25 @@
+﻿﻿PHPUnit 4.1.3 by Sebastian Bergmann.
+
+F.F.F
+
+Time: 65 ms, Memory: 3.75Mb
+
+There were 3 failures:
+
+1) TestRaport::testArgument
+Failed asserting that class "Raport" has attribute "nazwa".
+
+C:\Program Files\xampp\htdocs\unitTest\raportTest.php:5
+
+2) TestRaport::testEquals
+Failed asserting that 3000 matches expected 0.
+
+C:\Program Files\xampp\htdocs\unitTest\raportTest.php:16
+
+3) TestRaport::testTrue
+Failed asserting that 12 is true.
+
+C:\Program Files\xampp\htdocs\unitTest\raportTest.php:26
+
+FAILURES!
+Tests: 5, Assertions: 5, Failures: 3.

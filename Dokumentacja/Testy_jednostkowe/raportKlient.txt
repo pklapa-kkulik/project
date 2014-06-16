@@ -1,0 +1,20 @@
+﻿﻿PHPUnit 4.1.3 by Sebastian Bergmann.
+
+..F
+
+Time: 64 ms, Memory: 3.75Mb
+
+There was 1 failure:
+
+1) TestKlient::testEquals
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'Stefan'
++'Jan'
+
+C:\Program Files\xampp\htdocs\unitTest\klienciTest.php:16
+
+FAILURES!
+Tests: 3, Assertions: 3, Failures: 1.

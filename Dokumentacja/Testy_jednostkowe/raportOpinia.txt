@@ -1,0 +1,30 @@
+﻿﻿PHPUnit 4.1.3 by Sebastian Bergmann.
+
+..FFF
+
+Time: 64 ms, Memory: 3.75Mb
+
+There were 3 failures:
+
+1) TestOpinia::testEquals
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'zly produkt'
++'fajny produkt'
+
+C:\Program Files\xampp\htdocs\unitTest\opinieTest.php:16
+
+2) TestOpinia::testInstanceOf
+Failed asserting that Opinia Object (...) is an instance of class "TestOpinia".
+
+C:\Program Files\xampp\htdocs\unitTest\opinieTest.php:20
+
+3) TestOpinia::testFalse
+Failed asserting that null is false.
+
+C:\Program Files\xampp\htdocs\unitTest\opinieTest.php:25
+
+FAILURES!
+Tests: 5, Assertions: 5, Failures: 3.

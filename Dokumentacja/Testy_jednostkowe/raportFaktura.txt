@@ -1,0 +1,30 @@
+﻿﻿PHPUnit 4.1.3 by Sebastian Bergmann.
+
+FFFF
+
+Time: 66 ms, Memory: 3.75Mb
+
+There were 4 failures:
+
+1) TestFaktura::testArgument
+Failed asserting that class "Faktura" has attribute "cos".
+
+C:\Program Files\xampp\htdocs\unitTest\fakturyTest.php:5
+
+2) TestFaktura::testNullArgument
+Failed asserting that 1 is null.
+
+C:\Program Files\xampp\htdocs\unitTest\fakturyTest.php:11
+
+3) TestFaktura::testEquals
+Failed asserting that 5 matches expected 9.
+
+C:\Program Files\xampp\htdocs\unitTest\fakturyTest.php:17
+
+4) TestFaktura::testInstanceOf
+Failed asserting that TestFaktura Object (...) is an instance of class "Faktura".
+
+C:\Program Files\xampp\htdocs\unitTest\fakturyTest.php:21
+
+FAILURES!
+Tests: 4, Assertions: 4, Failures: 4.
